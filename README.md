@@ -17,3 +17,9 @@ Este é o meu currículo pessoal desenvolvido em **React.js**, com o objetivo ce
   <li>ExpressJS</li>
   <li>Nodemon</li>
 </ul>
+
+# <span style='color:#08AD9D'>To Do</span>
+
+<ul>
+  <li>Adicionar funcionalidade de mandar mensagem no e-mail. Link: https://www.youtube.com/watch?v=Zbg1BHOVzRg</li>
+</ul>
